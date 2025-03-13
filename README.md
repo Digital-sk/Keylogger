@@ -1,4 +1,4 @@
-![what-is-a-keylogger](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/808237bd-ac92-4f39-bab2-96a2b096d0b1)
+![what-is-a-keylogger](https://github.com/Digital-sk/Keylogger.git)
 <h1 align="center">Sinister</h1>
 
 
@@ -66,7 +66,7 @@ On **30 May 2022**, Google has **removed less secure apps feature**, so instead 
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/Er-Parag-Cyber/Snister.git
+$ https://github.com/Digital-sk/Keylogger.git
 
 # Go into the repository
 $ cd Sinister
